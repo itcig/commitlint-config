@@ -1,0 +1,56 @@
+{
+	"name": "@itcig/commitlint-config",
+	"version": "1.1.14",
+	"license": "MIT",
+	"description": "Shareable Commitlint config for all @itcig projects",
+	"author": {
+		"name": "ITCIG",
+		"email": "it@capinfogroup.com"
+	},
+	"homepage": "https://github.com/itcig/commitlint-config#readme",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/itcig/itcig.git",
+		"directory": "projects/js-packages/commitlint-config"
+	},
+	"main": "src/index.js",
+	"module": "src/index.js",
+	"files": [
+		"src"
+	],
+	"publishConfig": {
+		"access": "public"
+	},
+	"scripts": {},
+	"dependencies": {
+		"@commitlint/config-conventional": "^13.1.0",
+		"@commitlint/config-lerna-scopes": "^13.1.0",
+		"@itcig/config-composer-scopes": "^1.1.4"
+	},
+	"peerDependencies": {
+		"@commitlint/cli": "^13.1.0"
+	},
+	"bugs": {
+		"url": "https://github.com/itcig/itcig/issues"
+	},
+	"keywords": [
+		"commitlint",
+		"develop",
+		"dynamic-import",
+		"env",
+		"git",
+		"helpers",
+		"import-meta",
+		"monorepo",
+		"monorepo helpers",
+		"shareable configs",
+		"utilities",
+		"utils"
+	],
+	"extra": {
+		"autotagger": true,
+		"autorelease": true,
+		"npmjs-autopublish": true,
+		"mirror-repo": "itcig/commitlint-config"
+	}
+}
