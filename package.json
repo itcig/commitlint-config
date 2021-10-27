@@ -1,6 +1,6 @@
 {
 	"name": "@itcig/commitlint-config",
-	"version": "1.1.14",
+	"version": "1.1.15",
 	"license": "MIT",
 	"description": "Shareable Commitlint config for all @itcig projects",
 	"author": {
@@ -10,8 +10,7 @@
 	"homepage": "https://github.com/itcig/commitlint-config#readme",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/itcig/itcig.git",
-		"directory": "projects/js-packages/commitlint-config"
+		"url": "git+https://github.com/itcig/commitlint-config.git"
 	},
 	"main": "src/index.js",
 	"module": "src/index.js",
@@ -25,7 +24,7 @@
 	"dependencies": {
 		"@commitlint/config-conventional": "^13.1.0",
 		"@commitlint/config-lerna-scopes": "^13.1.0",
-		"@itcig/config-composer-scopes": "^1.1.4"
+		"@itcig/config-composer-scopes": "^1.1.5"
 	},
 	"peerDependencies": {
 		"@commitlint/cli": "^13.1.0"

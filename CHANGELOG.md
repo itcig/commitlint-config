@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-### [1.1.14](https://github.com/itcig/itcig/compare/@itcig/commitlint-config@1.1.13...@itcig/commitlint-config@1.1.14) (2021-10-27)
+### [1.1.15](https://github.com/itcig/itcig/compare/@itcig/commitlint-config@1.1.14...@itcig/commitlint-config@1.1.15) (2021-10-27)
 
 **Note:** Version bump only for package @itcig/commitlint-config
 
@@ -11,6 +11,10 @@ All notable changes to this project will be documented in this file. See
 
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+### [1.1.14](https://github.com/itcig/itcig/compare/@itcig/commitlint-config@1.1.13...@itcig/commitlint-config@1.1.14) (2021-10-27)
+
+**Note:** Version bump only for package @itcig/commitlint-config
 
 ### [1.1.13](https://github.com/itcig/itcig/compare/@itcig/commitlint-config@1.1.12...@itcig/commitlint-config@1.1.13) (2021-10-27)
 
