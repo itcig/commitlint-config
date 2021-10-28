@@ -1,5 +1,18 @@
 # Change Log
 
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+### [1.1.16](https://github.com/itcig/itcig/compare/@itcig/commitlint-config@1.1.15...@itcig/commitlint-config@1.1.16) (2021-10-28)
+
+**Note:** Version bump only for package @itcig/commitlint-config
+
+
+
+
+
+# Change Log
+
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 

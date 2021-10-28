@@ -1,6 +1,6 @@
 {
 	"name": "@itcig/commitlint-config",
-	"version": "1.1.15",
+	"version": "1.1.16",
 	"license": "MIT",
 	"description": "Shareable Commitlint config for all @itcig projects",
 	"author": {
@@ -24,7 +24,7 @@
 	"dependencies": {
 		"@commitlint/config-conventional": "^13.1.0",
 		"@commitlint/config-lerna-scopes": "^13.1.0",
-		"@itcig/config-composer-scopes": "^1.1.5"
+		"@itcig/config-composer-scopes": "1.1.5"
 	},
 	"peerDependencies": {
 		"@commitlint/cli": "^13.1.0"
