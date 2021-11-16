@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.0](https://github.com/itcig/itcig/compare/@itcig/commitlint-config@1.1.17...@itcig/commitlint-config@1.2.0) (2021-11-16)
+
+
+### Features
+
+* **commitlint-config:** add changelog cli ([ed062cd](https://github.com/itcig/itcig/commit/ed062cd29aac4d0dd5d0f58476269f6acb52d604))
+
+
+
 ### [1.1.17](https://github.com/itcig/itcig/compare/@itcig/commitlint-config@1.1.16...@itcig/commitlint-config@1.1.17) (2021-11-04)
 
 **Note:** Version bump only for package @itcig/commitlint-config
