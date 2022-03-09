@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.0-alpha.0](https://github.com/itcig/itcig/compare/@itcig/commitlint-config@1.2.1...@itcig/commitlint-config@1.3.0-alpha.0) (2022-03-09)
+
+
+### Features
+
+* **commitlint-config:** add additional scopes ([#9](https://github.com/itcig/itcig/issues/9)) ([cb2fa18](https://github.com/itcig/itcig/commit/cb2fa18283c5ac50a40195d54f3828007577ba1d))
+
+
+
 ### 1.2.1 (2022-03-08)
 
 **Note:** Version bump only for package @itcig/commitlint-config
